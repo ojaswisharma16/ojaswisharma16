@@ -1,3 +1,4 @@
+<img scr="CODER.png" alt="Love Coding.">
 <h1 align="center">Hi 👋, I'm Ojaswi Sharma.</h1>
 <h3 align="center">A passionate Coder, Creative Writer, Graphic Designer(Canva and CorelDraw) and an Anchor from India.</h3>
 
