@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" scr="CODER.png">
+<img align="right" alt="Coding" width="400" scr="https://github.com/ojaswisharma16/ojaswisharma16/blob/main/CODER.png">
 <h1 align="center">Hi 👋, I'm Ojaswi Sharma.</h1>
 <h3 align="center">A passionate Coder, Creative Writer, Graphic Designer(Canva and CorelDraw) and an Anchor from India.</h3>
 
