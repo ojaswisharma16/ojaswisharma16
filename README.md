@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shayaribegum" target="blank"><img src="https://img.shields.io/twitter/follow/shayaribegum?logo=twitter&style=for-the-badge" alt="shayaribegum" /></a> </p>
 
-- 📫 How to reach me **ojaswis1625@gmail.com**
+- 📫 How to reach me **shayaribegum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
